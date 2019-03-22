@@ -1,0 +1,12 @@
+{
+  "name": "assistant-dyson",
+  "version": "1.0.0",
+  "description": "Contrôle Dyson Pure Link",
+  "author": "j3rem1e",
+  "main": "dyson.js",
+  "repository": "https://github.com/j3rem1e/assistant-dyson/",
+  "license": "MIT",
+  "dependencies": {
+    "dyson-purelink": "auchenberg/dyson-purelink"
+  }
+}
